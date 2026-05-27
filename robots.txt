@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://counter-strike-2-tactics.vercel.app/sitemap.xml
